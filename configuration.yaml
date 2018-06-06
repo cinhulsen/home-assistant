@@ -50,6 +50,11 @@ sensor:
     monitored_conditions:
       - temperature
       - symbol
+  - platform: speedtest
+    monitored_conditions:
+      - ping
+      - download
+      - upload
 
 tts:
   - platform: google
