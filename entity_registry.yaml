@@ -1,0 +1,12 @@
+media_player.living_room:
+  name:
+  platform: apple_tv
+  unique_id: dfc37ed66c4f6bf79795edb804358569747421390afb2beb9d2c4bc4992cbd3e
+remote.living_room:
+  name:
+  platform: apple_tv
+  unique_id: dfc37ed66c4f6bf79795edb804358569747421390afb2beb9d2c4bc4992cbd3e
+media_player.careysarah_tv:
+  name:
+  platform: cast
+  unique_id: e8b06038-2084-0222-a6b2-f9e586c2ca67
