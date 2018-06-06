@@ -51,12 +51,14 @@ sensor:
       - temperature
       - symbol
 
-# Text to speech
 tts:
   - platform: google
 
 # Cloud
 cloud:
+
+device_tracker:
+  - platform: bluetooth_tracker
 
 group: !include groups.yaml
 automation: !include automations.yaml
